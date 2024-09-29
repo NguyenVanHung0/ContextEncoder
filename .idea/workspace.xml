@@ -5,83 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="298e3847-0494-425b-b5da-300b9b0a27ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aae/aae.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aae/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aae/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/acgan/acgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/acgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/acgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/keras_gan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bgan/bgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigan/bigan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ccgan/ccgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ccgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ccgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/cgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cogan/cogan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cogan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cogan/saved_model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/context_encoder/context_encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/context_encoder/context_encoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/context_encoder/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/context_encoder/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclegan/cyclegan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclegan/data_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclegan/download_dataset.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclegan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclegan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dcgan/dcgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dcgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dcgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discogan/data_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discogan/discogan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discogan/download_dataset.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discogan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discogan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dualgan/dualgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dualgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dualgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gan/gan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infogan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infogan/infogan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infogan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lsgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lsgan/lsgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lsgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pix2pix/data_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pix2pix/download_dataset.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pix2pix/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pix2pix/pix2pix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pix2pix/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixelda/data_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixelda/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixelda/pixelda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixelda/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixelda/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sgan/sgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srgan/data_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/srgan/srgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan/wgan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan_gp/images/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan_gp/saved_model/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wgan_gp/wgan_gp.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +30,7 @@
     &quot;Python.data_loader.executor&quot;: &quot;Run&quot;,
     &quot;Python.srgan.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/weather-forecast&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
@@ -115,7 +40,7 @@
       <recent name="D:\PycharmProjects\Keras-GAN\srgan" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.context_encoder">
+  <component name="RunManager">
     <configuration name="context_encoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ContextEncoder" />
       <option name="ENV_FILES" value="" />
@@ -160,12 +85,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.context_encoder" />
-        <item itemvalue="Python.srgan" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
